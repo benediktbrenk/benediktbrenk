@@ -13,3 +13,5 @@ My professional roots lie in the field of project management and education withi
 2. React, Next.js, styled-components
 3. Backend
 4. IT project management
+
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benediktbrenk&show_icons=true&theme=radical)
